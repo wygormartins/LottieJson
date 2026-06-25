@@ -22,6 +22,26 @@ https://raw.githubusercontent.com/wygormartins/ArquivosPublic/main/LottiesJson/{
 
 ---
 
+## Gráfico (Power BI)
+
+Para utilizar as animações Lottie no **Power BI**, é necessário importar o visual personalizado disponível na pasta `Grafico`.
+
+**Arquivo:**
+
+```text
+https://raw.githubusercontent.com/wygormartins/ArquivosPublic/main/Grafico/Lottie.pbiviz
+```
+
+**Como importar no Power BI:**
+
+1. Baixe o arquivo `Lottie.pbiviz`.
+2. No Power BI Desktop, abra o painel de **Visualizações**.
+3. Clique em **...** (mais opções) → **Importar um visual de um arquivo**.
+4. Selecione o `Lottie.pbiviz` baixado.
+5. Após importado, use o visual e cole a URL do JSON Lottie (veja a seção acima) para exibir a animação.
+
+---
+
 ## Fotos
 
 ### Equipes
